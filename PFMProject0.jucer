@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="eeHfXy" name="PFMProject0" projectType="audioplug" jucerVersion="5.4.5">
-  <MAINGROUP id="xe93vt" name="PFMProject0">
-    <GROUP id="{38283234-1DCB-56B3-DACB-378E882296DA}" name="Source">
-      <FILE id="xO42Hn" name="PluginProcessor.cpp" compile="1" resource="0"
+<JUCERPROJECT id="l8829e" name="PFMProject0" projectType="audioplug" jucerVersion="5.4.5"
+              companyName="JaredMcFarland" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn">
+  <MAINGROUP id="nKaW6B" name="PFMProject0">
+    <GROUP id="{72C01186-C3FB-DF6F-FE80-D90892354A66}" name="Source">
+      <FILE id="pKjv4t" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
-      <FILE id="BKahNo" name="PluginProcessor.h" compile="0" resource="0"
+      <FILE id="UptNmy" name="PluginProcessor.h" compile="0" resource="0"
             file="Source/PluginProcessor.h"/>
-      <FILE id="f2ApUQ" name="PluginEditor.cpp" compile="1" resource="0"
+      <FILE id="NZFQXW" name="PluginEditor.cpp" compile="1" resource="0"
             file="Source/PluginEditor.cpp"/>
-      <FILE id="oI6sRA" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="YYhR43" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
     </GROUP>
   </MAINGROUP>
   <EXPORTFORMATS>
